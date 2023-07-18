@@ -46,13 +46,13 @@ This project helps in finding perfect care for the pet when its owner is away fr
 Vs code
 
 # Steps followed while Deploying :
-1. Firstly we built the complete project using visual studio code, then tesed it on the live server extension.
+1. Firstly we built the complete project using visual studio code, then tested it on the live server extension.
 
-2. After that we have uploaded and committed the project into my githubrepositry.
+2. After that we have uploaded and committed the project into my github repository.
 
 3. This project was deployed using the github pages and tested it.
 
-4. After that I have logged into my azure account and created azure storage account.
+4. After that I logged into my azure account and created an azure storage account.
 
 5. After that I have created a container with blob storage and uploaded my project code into the container.
 
